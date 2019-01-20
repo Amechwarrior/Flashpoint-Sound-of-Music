@@ -1,0 +1,17 @@
+{
+    "Name": "Flashpoint_Sound_of_Music",
+    "Enabled": true,
+	
+    "Version": "1.0.0",
+
+    "Author": "amechwarrior",
+
+    "DependsOn": [],
+    "ConflictsWith": [],
+
+    "Manifest": [
+	{ "Type": "FlashpointDef", "Path": "flashpoints" },
+	{ "Type": "SimGameMilestoneSet", "Path": "milestoneSets" },
+	{ "Type": "SimGameConversations", "Path": "simGameConversations" }
+    ]
+}

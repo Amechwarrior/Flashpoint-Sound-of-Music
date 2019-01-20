@@ -1,0 +1,44 @@
+{
+    "Description" : {
+        "Id" : "fp_soundofMusic",
+        "Name" : "The Sound of Music",
+        "Details" : "Plays all the music.",
+        "Icon" : "uixTxrSpot_YangRelaxing.png"
+    },
+    "Weight" : 50,
+    "InternalName" : "soundofMusic",
+    "PublishState" : "PUBLISHED",
+    "Difficulty" : 1,
+    "Requirements" : [],
+    "LocationRequirements" : {
+        "Scope" : "StarSystem",
+        "RequirementTags" : {
+            "items" : [
+                "planet_name_alloway"
+            ],
+            "tagSetSourceFile" : "Tags/PlanetTags"
+        },
+        "ExclusionTags" : {
+            "items" : [],
+            "tagSetSourceFile" : ""
+        },
+        "RequirementComparisons" : []
+    },
+    "PotentialEmployers" : [
+        "SelfEmployed"
+    ],
+    "TargetFaction" : "NoFaction",
+    "AllowRefitTime" : false,
+    "FlashpointLength" : "SHORT",
+    "Repeatable" : false,
+    "MilestoneSetID" : "ms_fp_soundofMusic",
+    "UseAvailableTimeoutOverride" : false,
+    "AvailableTimeout" : 0,
+    "UseInProgressTimeoutOverride" : false,
+    "InProgressTimeout" : 0,
+    "RewardCollectionID" : "itemCollection_loot_none",
+    "UnitDropTonnageHint" : "None",
+    "LanceDropTonnageHint" : "None",
+    "FlashpointShortDescription" : "Chill out and listen to some tunes with Yang and the crew.  No death, no fighting, no money.  Just a fine evening with your Chief 'Mech Tech.\r\n\r\n[AUTHORS NOTE:  This is simply a conversation to trigger each music track for Flashpoint authors to listen to.]",
+    "FlashpointDescriberCastDefId" : "castDef_YangDefault"
+}
