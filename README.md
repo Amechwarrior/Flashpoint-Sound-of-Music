@@ -1,4 +1,4 @@
-# Flashpoint-Sound-of-Music
+# Flashpoint: The Sound of Music
 This is a BATTLETECH Flashpoint to play each music track for preview.  It advances through each of the 37 tracks found in audioeventdef_GroupConvos.json
 
 This Flashpoint is not meant for normal play.  This is for Flashpoint authors to listen to tracks for selection in their custom Flashpoints.  Use this with a Debug Mode Career and do not leave this mod active during normal play.
